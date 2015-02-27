@@ -1,4 +1,4 @@
-##Makers Academy Week 2 Test
+##Makers Academy Octocat Challenge
 
 ###Aim
 
